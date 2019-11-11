@@ -7,6 +7,6 @@ void main()
 	cin>>a>>b;
 	//int a=10,b=20;
 	sum=a+b;
-	cout<<"Sum:"<<sum;
+	cout<<"\nSum:"<<sum;
 	getch();
 }	
