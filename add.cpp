@@ -9,6 +9,7 @@ void main()
 	sum=a+b;
 	product=a*b;
 	cout<<"\nSum:"<<sum;
+cout<<"\n";
 	cout<<"\nProduct:"<<product;
 
 	getch();
